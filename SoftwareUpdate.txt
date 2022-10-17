@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+Fix Yolo 8.0.206 scale bug (#7821)
