@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Fix Yolo 8.0.206 scale bug (#7821)
