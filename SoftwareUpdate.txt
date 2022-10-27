@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Python refactorings and simplifications (#7549)
