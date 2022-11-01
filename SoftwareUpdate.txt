@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+OpenVino 2024.0.0 (#8726)
