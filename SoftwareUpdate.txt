@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Fix Yolo 8.0.206 scale bug (#7821)
