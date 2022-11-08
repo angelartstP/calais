@@ -1,1 +1,1 @@
-fix predict with class filter
+Add integrations/gradio Docs page (#7935)
