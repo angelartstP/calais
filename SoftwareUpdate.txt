@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Add docs guide terminal images (#8819)
