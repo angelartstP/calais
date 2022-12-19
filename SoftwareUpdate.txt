@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
