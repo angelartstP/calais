@@ -1,1 +1,1 @@
-Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
