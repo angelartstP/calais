@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
