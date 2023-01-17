@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
