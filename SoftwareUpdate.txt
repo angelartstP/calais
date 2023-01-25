@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+fix for KeyError: 'epoch' (#48)
