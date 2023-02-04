@@ -1,1 +1,1 @@
-Add YOLOv9 Docs page (#8478)
+Cleanup Docs languages (#7865)
