@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Add PaddlePaddle Docs Integrations Page (#8858)
