@@ -1,1 +1,1 @@
-Add Weights & Biases Docs integrations page (#7199)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
