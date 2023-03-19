@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
