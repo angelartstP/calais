@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Compare plt.get_backend() in lowercase (#8409)
