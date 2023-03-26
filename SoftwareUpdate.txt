@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
