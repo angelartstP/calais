@@ -1,1 +1,1 @@
-Replace onnx2tf usage from CLI to Python (#8429)
+Fix bbox2segment converter (#7814)
