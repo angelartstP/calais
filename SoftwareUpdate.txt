@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Add PaddlePaddle Docs Integrations Page (#8858)
