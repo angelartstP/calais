@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Update Discord and Contributing Guide URLs (#9270)
