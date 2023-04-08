@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add Weights & Biases Docs integrations page (#7199)
