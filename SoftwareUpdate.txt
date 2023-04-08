@@ -1,1 +1,1 @@
-Add PaddlePaddle Docs Integrations Page (#8858)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
