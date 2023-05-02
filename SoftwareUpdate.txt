@@ -1,1 +1,1 @@
-ADD | opnecv c++ Onnx integration (#70)
+Auto-format by https://ultralytics.com/actions
