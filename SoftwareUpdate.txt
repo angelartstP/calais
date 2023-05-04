@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
