@@ -1,1 +1,1 @@
-Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
