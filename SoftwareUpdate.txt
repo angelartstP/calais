@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
