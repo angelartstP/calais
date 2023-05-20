@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Update H1 in Explorer API docs (#7813)
