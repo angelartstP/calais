@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+* fix for predicting with batch_size > 1
