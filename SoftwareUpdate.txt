@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+fix print val map
