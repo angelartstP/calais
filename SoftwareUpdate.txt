@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Elaborate Train and Predict mode docs arguments (#8137)
