@@ -1,1 +1,1 @@
-Dockerfile-jetson pyproject.toml OpenCV fix (#7214)
+Update neural-magic.md (#7347)
