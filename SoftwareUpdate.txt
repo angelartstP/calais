@@ -1,1 +1,1 @@
-Updating a typo on paddlepaddle.md (#9108)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
