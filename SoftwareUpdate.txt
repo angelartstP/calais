@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
