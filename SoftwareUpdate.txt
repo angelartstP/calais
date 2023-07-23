@@ -1,1 +1,1 @@
-fix for KeyError: 'epoch' (#48)
+Fix docs H1 tags (#7182)
