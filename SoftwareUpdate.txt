@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Update CI.md with CI links (#8786)
