@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+added badges (#45)
