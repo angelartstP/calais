@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+Update the heatmap module code + docs (#7045)
