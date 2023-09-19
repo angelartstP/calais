@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+OBB: Fix plot_images (#7592)
