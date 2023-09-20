@@ -1,1 +1,1 @@
-OBB: Fix plot_images (#7592)
+Add integrations/gradio Docs page (#7935)
