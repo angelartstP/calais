@@ -1,1 +1,1 @@
-Add HUB-SDK Docs reference section (#7781)
+Allow Annotator PIL.Image inputs (#8397)
