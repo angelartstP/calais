@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
