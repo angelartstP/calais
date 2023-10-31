@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Add PR Summary step to Ultralytics Actions (#7675)
