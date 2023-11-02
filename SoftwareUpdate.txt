@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
