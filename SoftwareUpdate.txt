@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Fix TypeError in check_cfg() (#9245)
