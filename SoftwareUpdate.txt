@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
