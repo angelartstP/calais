@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
