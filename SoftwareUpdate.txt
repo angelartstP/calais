@@ -1,1 +1,1 @@
-Add missing single-line docstrings (#8362)
+Add YOLOv8 LibTorch C++ inference example (#7090)
