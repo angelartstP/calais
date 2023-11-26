@@ -1,1 +1,1 @@
-Add YOLOv8 LibTorch C++ inference example (#7090)
+Both Link Opening Options - Have both the Open in Background option and the Open in New Tab option available alongside each other
