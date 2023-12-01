@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Update CI.md with CI links (#8786)
