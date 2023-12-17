@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+Add Amazon Sagemaker Docs integrations page (#7293)
