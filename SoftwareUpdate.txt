@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Update Discord and Contributing Guide URLs (#9270)
