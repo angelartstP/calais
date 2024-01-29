@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
