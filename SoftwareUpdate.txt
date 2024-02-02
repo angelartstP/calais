@@ -1,1 +1,1 @@
-ultralytics 8.1.18 add cmake for building onnxsim on aarch64 (#8395)
+Limit ray<2.9.3 due to bug in ray==2.10.0 (#9254)
