@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
