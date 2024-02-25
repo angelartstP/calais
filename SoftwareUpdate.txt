@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+New MLFLOW_KEEP_RUN_ACTIVE flag for enhanced MLflow run management (#8808)
