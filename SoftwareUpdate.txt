@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
