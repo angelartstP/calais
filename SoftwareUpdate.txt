@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+Add type hinting to explorer.py (#7388)
