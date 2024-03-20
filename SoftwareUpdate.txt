@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
