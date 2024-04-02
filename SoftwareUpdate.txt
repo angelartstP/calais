@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add TFLite Edge TPU Docs Integrations Page  (#8900)
