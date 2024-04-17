@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Fix RTDETR generate anchor grid out of boundary (#7247)
