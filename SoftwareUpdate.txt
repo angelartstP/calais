@@ -1,1 +1,1 @@
-fix resume training
+Auto-format by https://ultralytics.com/actions
