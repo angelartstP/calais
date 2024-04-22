@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
