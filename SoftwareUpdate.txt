@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Use pathlib in DOTA ops (#7552)
