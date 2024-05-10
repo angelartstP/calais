@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Add model.eval() in TensorBoad graph visualization to avoid BN stats changes (#8629)
