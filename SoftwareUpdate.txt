@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
