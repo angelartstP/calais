@@ -1,1 +1,1 @@
-Fix cmake requirements for ARM64 (#8589)
+Update H1 in Explorer API docs (#7813)
